@@ -1,0 +1,7 @@
+C:\Users\Mahonri\source\repos\Intervalo\Intervalo\bin\Debug\Intervalo.exe.config
+C:\Users\Mahonri\source\repos\Intervalo\Intervalo\bin\Debug\Intervalo.exe
+C:\Users\Mahonri\source\repos\Intervalo\Intervalo\bin\Debug\Intervalo.pdb
+C:\Users\Mahonri\source\repos\Intervalo\Intervalo\obj\Debug\Intervalo.csprojAssemblyReference.cache
+C:\Users\Mahonri\source\repos\Intervalo\Intervalo\obj\Debug\Intervalo.csproj.CoreCompileInputs.cache
+C:\Users\Mahonri\source\repos\Intervalo\Intervalo\obj\Debug\Intervalo.exe
+C:\Users\Mahonri\source\repos\Intervalo\Intervalo\obj\Debug\Intervalo.pdb
